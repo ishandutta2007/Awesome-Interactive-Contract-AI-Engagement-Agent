@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Interactive-Contract-AI-Engagement-Agent/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Interactive-Contract-AI-Engagement-Agent?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Interactive-Contract-AI-Engagement-Agent/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Interactive-Contract-AI-Engagement-Agent?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Interactive-Contract-AI-Engagement-Agent/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Interactive-Contract-AI-Engagement-Agent?style=flat-square&logo=github" alt="GitHub Forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Interactive-Contract-AI-Engagement-Agent/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Interactive-Contract-AI-Engagement-Agent?style=flat-square" alt="GitHub Issues"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Interactive-Contract-AI-Engagement-Agent/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
@@ -67,76 +67,76 @@ Below is a curated comparison of category-leading SaaS contract AI engagement pl
 
 Explore production-grade open-source tools for building self-hosted, confidential contract intelligence engines, private legal RAG pipelines, automated redlining agents, and clause extractors. Sorted in descending order by GitHub stargazers count.
 
-1. **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
+1. **[Dify](https://github.com/langgenius/dify)** [![GitHub_Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
    Open-source LLM application development platform and agent orchestrator ideal for building custom multi-step legal contract review agents, clause extractors, and automated corporate playbook checkers.
 
-2. **[Docling](https://github.com/docling-project/docling)** [![GitHub stars](https://img.shields.io/github/stars/docling-project/docling?style=social&color=white)](https://github.com/docling-project/docling/stargazers)  
+2. **[Docling](https://github.com/docling-project/docling)** [![GitHub_Stars](https://img.shields.io/github/stars/docling-project/docling?style=social&color=white)](https://github.com/docling-project/docling/stargazers)  
    Production-ready open-source document parsing toolkit capable of converting complex multi-column legal PDFs, scans, and signed contracts into structured Markdown and JSON with visual grounding.
 
-3. **[AutoGen](https://github.com/microsoft/autogen)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)  
+3. **[AutoGen](https://github.com/microsoft/autogen)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)  
    Multi-agent conversation framework enabling teams of specialized AI agents (such as Drafter, Risk Reviewer, Compliance Officer, and Negotiator) to collaborate autonomously on complex contract workflows.
 
-4. **[PrivateGPT](https://github.com/zylon-ai/private-gpt)** [![GitHub stars](https://img.shields.io/github/stars/zylon-ai/private-gpt?style=social&color=white)](https://github.com/zylon-ai/private-gpt/stargazers)  
+4. **[PrivateGPT](https://github.com/zylon-ai/private-gpt)** [![GitHub_Stars](https://img.shields.io/github/stars/zylon-ai/private-gpt?style=social&color=white)](https://github.com/zylon-ai/private-gpt/stargazers)  
    Production-ready open-source RAG API allowing legal departments to query sensitive and confidential contracts completely offline on air-gapped infrastructure with 100% data privacy.
 
-5. **[Flowise](https://github.com/FlowiseAI/Flowise)** [![GitHub stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)  
+5. **[Flowise](https://github.com/FlowiseAI/Flowise)** [![GitHub_Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)  
    Open-source visual drag-and-drop builder for orchestrating agentic legal RAG workflows, contract comparison pipelines, and conversational legal Q&A bots.
 
-6. **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** [![GitHub stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white)](https://github.com/paperless-ngx/paperless-ngx/stargazers)  
+6. **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** [![GitHub_Stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white)](https://github.com/paperless-ngx/paperless-ngx/stargazers)  
    Self-hosted open-source document management system featuring OCR, tagging, email ingestion, and full-text search that integrates cleanly with local legal AI agents for contract archiving.
 
-7. **[LibreChat](https://github.com/LibreChat-AI/LibreChat)** [![GitHub stars](https://img.shields.io/github/stars/LibreChat-AI/LibreChat?style=social&color=white)](https://github.com/LibreChat-AI/LibreChat/stargazers)  
+7. **[LibreChat](https://github.com/LibreChat-AI/LibreChat)** [![GitHub_Stars](https://img.shields.io/github/stars/LibreChat-AI/LibreChat?style=social&color=white)](https://github.com/LibreChat-AI/LibreChat/stargazers)  
    Enhanced open-source ChatGPT-style web UI featuring multi-model routing, Model Context Protocol (MCP), custom legal system prompts, artifacts, and multi-file RAG chat over agreements.
 
-8. **[Marker](https://github.com/datalab-to/marker)** [![GitHub stars](https://img.shields.io/github/stars/datalab-to/marker?style=social&color=white)](https://github.com/datalab-to/marker/stargazers)  
+8. **[Marker](https://github.com/datalab-to/marker)** [![GitHub_Stars](https://img.shields.io/github/stars/datalab-to/marker?style=social&color=white)](https://github.com/datalab-to/marker/stargazers)  
    High-accuracy, high-speed open-source pipeline for converting complex legal PDFs, court filings, and contracts into clean Markdown and structured JSON for LLM consumption.
 
-9. **[LightRAG](https://github.com/HKUDS/LightRAG)** [![GitHub stars](https://img.shields.io/github/stars/HKUDS/LightRAG?style=social&color=white)](https://github.com/HKUDS/LightRAG/stargazers)  
+9. **[LightRAG](https://github.com/HKUDS/LightRAG)** [![GitHub_Stars](https://img.shields.io/github/stars/HKUDS/LightRAG?style=social&color=white)](https://github.com/HKUDS/LightRAG/stargazers)  
    Fast and lightweight open-source Retrieval-Augmented Generation engine combining graph-based structures with dual-level retrieval for mapping cross-contract relationships and amendments.
 
-10. **[Google LangExtract](https://github.com/google/langextract)** [![GitHub stars](https://img.shields.io/github/stars/google/langextract?style=social&color=white)](https://github.com/google/langextract/stargazers)  
+10. **[Google LangExtract](https://github.com/google/langextract)** [![GitHub_Stars](https://img.shields.io/github/stars/google/langextract?style=social&color=white)](https://github.com/google/langextract/stargazers)  
     Open-source Python framework from Google for extracting structured information, contract dates, counterparties, and contractual commitments from unstructured text with verifiable source grounding.
 
-11. **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
+11. **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub_Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
     Self-hostable personal AI assistant and offline search engine capable of indexing local legal contract repositories, PDFs, and Word documents for conversational Q&A.
 
-12. **[Microsoft GraphRAG](https://github.com/microsoft/graphrag)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social&color=white)](https://github.com/microsoft/graphrag/stargazers)  
+12. **[Microsoft GraphRAG](https://github.com/microsoft/graphrag)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social&color=white)](https://github.com/microsoft/graphrag/stargazers)  
     Modular, graph-based RAG system built to extract knowledge graphs from legal document collections, enabling holistic queries across entire corporate agreement repositories.
 
-13. **[Onyx (formerly Danswer)](https://github.com/onyx-dot-app/onyx)** [![GitHub stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers)  
+13. **[Onyx (formerly Danswer)](https://github.com/onyx-dot-app/onyx)** [![GitHub_Stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers)  
     Open-source enterprise AI assistant and semantic search engine connecting directly to Google Drive, SharePoint, OneDrive, and Slack for cited contract Q&A.
 
-14. **[Kotaemon](https://github.com/Cinnamon/kotaemon)** [![GitHub stars](https://img.shields.io/github/stars/Cinnamon/kotaemon?style=social&color=white)](https://github.com/Cinnamon/kotaemon/stargazers)  
+14. **[Kotaemon](https://github.com/Cinnamon/kotaemon)** [![GitHub_Stars](https://img.shields.io/github/stars/Cinnamon/kotaemon?style=social&color=white)](https://github.com/Cinnamon/kotaemon/stargazers)  
     Clean, customizable open-source RAG interface engineered specifically for conversational document Q&A over complex legal agreements with inline citations and document preview panels.
 
-15. **[Surya](https://github.com/datalab-to/surya)** [![GitHub stars](https://img.shields.io/github/stars/datalab-to/surya?style=social&color=white)](https://github.com/datalab-to/surya/stargazers)  
+15. **[Surya](https://github.com/datalab-to/surya)** [![GitHub_Stars](https://img.shields.io/github/stars/datalab-to/surya?style=social&color=white)](https://github.com/datalab-to/surya/stargazers)  
     Multilingual document OCR, layout analysis, table recognition, and reading order detection model for scanning physical agreements and legacy contract scans.
 
-16. **[DocuSeal](https://github.com/docusealco/docuseal)** [![GitHub stars](https://img.shields.io/github/stars/docusealco/docuseal?style=social&color=white)](https://github.com/docusealco/docuseal/stargazers)  
+16. **[DocuSeal](https://github.com/docusealco/docuseal)** [![GitHub_Stars](https://img.shields.io/github/stars/docusealco/docuseal?style=social&color=white)](https://github.com/docusealco/docuseal/stargazers)  
     Open-source, self-hosted DocuSign alternative for creating, filling, sending, and digitally signing contracts with automated webhook integrations for AI pipelines.
 
-17. **[Unstructured](https://github.com/Unstructured-IO/unstructured)** [![GitHub stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white)](https://github.com/Unstructured-IO/unstructured/stargazers)  
+17. **[Unstructured](https://github.com/Unstructured-IO/unstructured)** [![GitHub_Stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white)](https://github.com/Unstructured-IO/unstructured/stargazers)  
     Open-source data ingestion and ETL preprocessing library specifically built for chunking, parsing, and normalizing PDF, DOCX, and scanned contracts for legal AI models.
 
-18. **[OpenContracts](https://github.com/Open-Source-Legal/OpenContracts)** [![GitHub stars](https://img.shields.io/github/stars/Open-Source-Legal/OpenContracts?style=social&color=white)](https://github.com/Open-Source-Legal/OpenContracts/stargazers)  
+18. **[OpenContracts](https://github.com/Open-Source-Legal/OpenContracts)** [![GitHub_Stars](https://img.shields.io/github/stars/Open-Source-Legal/OpenContracts?style=social&color=white)](https://github.com/Open-Source-Legal/OpenContracts/stargazers)  
     Open-source enterprise document and contract analytics platform offering visual annotation, citation graphs, vector search, and Model Context Protocol (MCP) integrations.
 
-19. **[Docassemble](https://github.com/jhpyle/docassemble)** [![GitHub stars](https://img.shields.io/github/stars/jhpyle/docassemble?style=social&color=white)](https://github.com/jhpyle/docassemble/stargazers)  
+19. **[Docassemble](https://github.com/jhpyle/docassemble)** [![GitHub_Stars](https://img.shields.io/github/stars/jhpyle/docassemble?style=social&color=white)](https://github.com/jhpyle/docassemble/stargazers)  
     Free, open-source expert system and guided interview engine for automated legal document assembly, customized contract generation, and legal ops workflows.
 
-20. **[Blackstone](https://github.com/ICLRandD/Blackstone)** [![GitHub stars](https://img.shields.io/github/stars/ICLRandD/Blackstone?style=social&color=white)](https://github.com/ICLRandD/Blackstone/stargazers)  
+20. **[Blackstone](https://github.com/ICLRandD/Blackstone)** [![GitHub_Stars](https://img.shields.io/github/stars/ICLRandD/Blackstone?style=social&color=white)](https://github.com/ICLRandD/Blackstone/stargazers)  
     Open-source spaCy NLP pipeline and model specifically trained for parsing legal texts, statutory instruments, and contractual entities.
 
-21. **[CUAD (Contract Understanding Atticus Dataset)](https://github.com/The-Atticus-Project/cuad)** [![GitHub stars](https://img.shields.io/github/stars/The-Atticus-Project/cuad?style=social&color=white)](https://github.com/The-Atticus-Project/cuad/stargazers)  
+21. **[CUAD (Contract Understanding Atticus Dataset)](https://github.com/The-Atticus-Project/cuad)** [![GitHub_Stars](https://img.shields.io/github/stars/The-Atticus-Project/cuad?style=social&color=white)](https://github.com/The-Atticus-Project/cuad/stargazers)  
     Open-source legal dataset and baseline NLP models curated by legal experts for identifying 41 critical commercial contract clauses and risk triggers.
 
-22. **[Accord Project Template Archive (Cicero)](https://github.com/accordproject/template-archive)** [![GitHub stars](https://img.shields.io/github/stars/accordproject/template-archive?style=social&color=white)](https://github.com/accordproject/template-archive/stargazers)  
+22. **[Accord Project Template Archive (Cicero)](https://github.com/accordproject/template-archive)** [![GitHub_Stars](https://img.shields.io/github/stars/accordproject/template-archive?style=social&color=white)](https://github.com/accordproject/template-archive/stargazers)  
     Open-source smart legal contract framework and template engine enabling natural-language agreements to be parsed, validated, and executed with data schemas.
 
-23. **[LexGLUE](https://github.com/coastalcph/lex-glue)** [![GitHub stars](https://img.shields.io/github/stars/coastalcph/lex-glue?style=social&color=white)](https://github.com/coastalcph/lex-glue/stargazers)  
+23. **[LexGLUE](https://github.com/coastalcph/lex-glue)** [![GitHub_Stars](https://img.shields.io/github/stars/coastalcph/lex-glue?style=social&color=white)](https://github.com/coastalcph/lex-glue/stargazers)  
     Comprehensive open-source legal NLP benchmark across seven tasks including contract clause classification, legal QA, and judicial outcome prediction.
 
-24. **[Accord Project Concerto](https://github.com/accordproject/concerto)** [![GitHub stars](https://img.shields.io/github/stars/accordproject/concerto?style=social&color=white)](https://github.com/accordproject/concerto/stargazers)  
+24. **[Accord Project Concerto](https://github.com/accordproject/concerto)** [![GitHub_Stars](https://img.shields.io/github/stars/accordproject/concerto?style=social&color=white)](https://github.com/accordproject/concerto/stargazers)  
     Domain-specific modeling language and schema runtime for machine-readable legal contracts, clause validation, and structured contract execution.
 
 ---
